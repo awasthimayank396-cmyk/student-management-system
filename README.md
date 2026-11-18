@@ -17,17 +17,23 @@ It helps users manage student records easily.
 1. Add Student
 2. Display Students
 3. Search Student
-4. Update Student
-5. Delete Student
-6. Save Records using File Handling
+
 
 ## Concepts Used
-- Structures
-- Functions
-- Loops
-- Switch Case
-- Conditional Statements
-- File Handling
+Concepts Used in Student Management 
+
+1. Header Files
+2. Structure
+3. Array
+4. Variables and Data Types
+5. Input and Output Functions
+6. Conditional Statements (If-Else)
+7. Switch Case
+8. For Loop
+9. Do-While Loop
+10. Operators
+
+Conclusion: This project demonstrates the practical implementation of basic C programming concepts to manage student records efficiently.
 
 ## How to Run
 1. Download the source code.
